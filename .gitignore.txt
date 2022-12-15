@@ -1,5 +1,4 @@
 obj/
 bin/
 .vs/
-.vs/ConsoleApp11/
 ConsoleApp1/obj/
